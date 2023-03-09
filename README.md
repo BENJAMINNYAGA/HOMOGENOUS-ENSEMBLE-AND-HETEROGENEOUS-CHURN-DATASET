@@ -41,5 +41,5 @@ This project was completed with the help of the following resources:
 [Churn Modelling Dataset on Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 [scikit-learn Documentation](https://scikit-learn.org/stable/)
 # Credits
-This implementation is based on the work of Benjamin nyaga njiru
+This implementation is based on the work of Benjamin nyaga njiru.
 
