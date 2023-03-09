@@ -18,6 +18,9 @@ The following libraries are required to run this project:
 * pandas
 * numpy
 * scikit-learn
+* Python 3.x
+*Jupyter Notebook
+* Matplotlib
 You can install these libraries using pip:
 #  Result
 Our final model achieved an accuracy of 85% on the validation set, with a precision of 76% and a recall of 60%. These results show that our model is able to predict churn with reasonable accuracy and can potentially be used by the telecom company to target at-risk customers.
