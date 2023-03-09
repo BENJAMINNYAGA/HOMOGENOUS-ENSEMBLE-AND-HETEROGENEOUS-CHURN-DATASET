@@ -23,6 +23,7 @@ You can install these libraries using pip:
 Our final model achieved an accuracy of 85% on the validation set, with a precision of 76% and a recall of 60%. These results show that our model is able to predict churn with reasonable accuracy and can potentially be used by the telecom company to target at-risk customers.
 # Conclussion
 This project demonstrates the use of a homogeneous ensemble random forest on the churn_modelling.csv dataset. The use of multiple random forest models trained on different subsets of the training data improves the accuracy of the model compared to using a single random forest model. The final model achieves an accuracy of 86% on the testing set.
+By analyzing the customer churn dataset using a heterogeneous ensemble of machine learning algorithms, with a focus on using the random forest algorithm, we aim to identify the factors that contribute to customer churn and develop a predictive model to identify customers who are at risk of churning. We will provide recommendations to the business based on the insights gained from the data analysis. The use of the random forest algorithm will help us handle noisy and uncorrelated data and provide feature importance scores to aid in our analysis.
 # Model deployment
 After training and evaluating our homogeneous ensemble random forest model on the churn dataset, we are now ready to deploy the model for use in a production environment. Here's an overview of the steps involved in deploying the model:
 # Saving the model
@@ -36,3 +37,6 @@ That's it! We have successfully deployed our homogeneous ensemble random forest 
 This project was completed with the help of the following resources:
 [Churn Modelling Dataset on Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 [scikit-learn Documentation](https://scikit-learn.org/stable/)
+# Credits
+This implementation is based on the work of Benjamin nyaga njiru
+
