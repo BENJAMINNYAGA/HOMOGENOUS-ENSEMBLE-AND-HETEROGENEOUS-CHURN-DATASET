@@ -35,3 +35,4 @@ That's it! We have successfully deployed our homogeneous ensemble random forest 
 # Reference
 This project was completed with the help of the following resources:
 [Churn Modelling Dataset on Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
+[scikit-learn Documentation](https://scikit-learn.org/stable/)
